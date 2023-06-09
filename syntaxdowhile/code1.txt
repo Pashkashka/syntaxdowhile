@@ -1,0 +1,6 @@
+fg
+do{
+[]
+fgfgf
+do{ do{}while(); }while();
+}while(); 
